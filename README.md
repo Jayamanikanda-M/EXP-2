@@ -62,11 +62,31 @@ Tabulation for Open Circuit Test
 
 
 Tabulation for Load Test:
+|S.NO|CURRENT(A)|VOLTAGE(V)|
+ |:-----:|:-----:|:------------:|
+ |1|1.2|220|
+ |2|2.8|212|
+ |3|3.2|208|
+ |4|3.6|205|
+ |5|5.5|200|
+ |6|7|195|
 
 Model graph:
-Calculation: 
-
 Open circuit characteristics
+
+<img width="1280" height="1047" alt="image" src="https://github.com/user-attachments/assets/a2a64d09-c4d9-4db8-a5a1-9fd3e093bd36" />
+<img width="1295" height="391" alt="image" src="https://github.com/user-attachments/assets/00fd5de9-9fbc-4d75-82b4-083ca3384de0" />
+<img width="788" height="796" alt="image" src="https://github.com/user-attachments/assets/d46c13af-8042-4085-8047-7204951df29f" />
+
+Load Characteristics:
+<img width="1280" height="1007" alt="image" src="https://github.com/user-attachments/assets/ccf2cbe3-17b8-49fe-9959-b0b976adc92c" />
+
+<img width="1292" height="414" alt="image" src="https://github.com/user-attachments/assets/285b8451-62e0-44d5-9df8-05bbf0aaded3" />
+<img width="1529" height="682" alt="image" src="https://github.com/user-attachments/assets/4a979818-aaa7-49f6-a0b9-4d6844e0e995" />
+<img width="1510" height="460" alt="image" src="https://github.com/user-attachments/assets/0ac36630-89a5-497a-ab92-9662105c581e" />
+
+
+
 
   
 Load Characteristics:
